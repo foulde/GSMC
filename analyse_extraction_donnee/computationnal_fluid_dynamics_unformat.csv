@@ -1,0 +1,345 @@
+Id 	Name 	Group 	Rows 	Cols 	Nonzeros 	Kind 	Date 	Download File
+2804 	mawi_201512020330 	MAWI 	226,196,185 	226,196,185 	480,047,894 	Undirected Weighted Graph 	2015 	
+2384 	HV15R 	Fluorem 	2,017,169 	2,017,169 	283,073,458 	Computational Fluid Dynamics Problem 	2011 	
+2803 	mawi_201512020130 	MAWI 	128,568,730 	128,568,730 	270,234,840 	Undirected Weighted Graph 	2015 	
+2802 	mawi_201512020030 	MAWI 	68,863,315 	68,863,315 	143,414,960 	Undirected Weighted Graph 	2015 	
+2549 	Cube_Coup_dt6 	Janna 	2,164,760 	2,164,760 	124,406,070 	Structural Problem 	2012 	
+2548 	Cube_Coup_dt0 	Janna 	2,164,760 	2,164,760 	124,406,070 	Structural Problem 	2012 	
+2544 	Flan_1565 	Janna 	1,564,794 	1,564,794 	114,165,372 	Structural Problem 	2011 	
+2650 	ML_Geer 	Janna 	1,504,002 	1,504,002 	110,686,677 	Structural Problem 	2012 	
+2551 	Long_Coup_dt6 	Janna 	1,470,152 	1,470,152 	84,422,970 	Structural Problem 	2012 	
+2550 	Long_Coup_dt0 	Janna 	1,470,152 	1,470,152 	84,422,970 	Structural Problem 	2012 	
+2801 	mawi_201512020000 	MAWI 	35,991,342 	35,991,342 	74,485,420 	Undirected Weighted Graph 	2015 	
+2545 	Geo_1438 	Janna 	1,437,960 	1,437,960 	60,236,322 	Structural Problem 	2011 	
+2546 	Hook_1498 	Janna 	1,498,023 	1,498,023 	59,374,451 	Structural Problem 	2011 	
+2542 	Emilia_923 	Janna 	923,136 	923,136 	40,373,538 	Structural Problem 	2011 	
+2800 	mawi_201512012345 	MAWI 	18,571,154 	18,571,154 	38,040,320 	Undirected Weighted Graph 	2015 	
+2337 	RM07R 	Fluorem 	381,689 	381,689 	37,464,962 	Computational Fluid Dynamics Problem 	2010 	
+2648 	ML_Laplace 	Janna 	377,002 	377,002 	27,582,698 	Structural Problem 	2012 	
+2543 	Fault_639 	Janna 	638,802 	638,802 	27,245,944 	Structural Problem 	2011 	
+2573 	CurlCurl_4 	Bodendiek 	2,380,515 	2,380,515 	26,515,867 	Model Reduction Problem 	2012 	
+2649 	Transport 	Janna 	1,602,111 	1,602,111 	23,487,281 	Structural Problem 	2012
+2547 	StocF-1465 	Janna 	1,465,137 	1,465,137 	21,005,389 	Computational Fluid Dynamics Problem 	2011 	
+2647 	CoupCons3D 	Janna 	416,800 	416,800 	17,277,420 	Structural Problem 	2012 	
+2786 	higgs-twitter 	SNAP 	456,626 	456,626 	14,855,842 	Directed Temporal Multigraph 	2015 	
+2572 	CurlCurl_3 	Bodendiek 	1,219,574 	1,219,574 	13,544,618 	Model Reduction Problem 	2012 	
+2268 	atmosmodm 	Bourchtein 	1,489,752 	1,489,752 	10,319,760 	Computational Fluid Dynamics Problem 	2009 	
+2267 	atmosmodl 	Bourchtein 	1,489,752 	1,489,752 	10,319,760 	Computational Fluid Dynamics Problem 	2009 	
+2571 	CurlCurl_2 	Bodendiek 	806,529 	806,529 	8,921,789 	Model Reduction Problem 	2012 	
+2265 	atmosmodd 	Bourchtein 	1,270,432 	1,270,432 	8,814,880 	Computational Fluid Dynamics Problem 	2009 	
+2266 	atmosmodj 	Bourchtein 	1,270,432 	1,270,432 	8,814,880 	Computational Fluid Dynamics Problem 	2009 	
+2336 	PR02R 	Fluorem 	161,070 	161,070 	8,185,136 	Computational Fluid Dynamics Problem 	2010 	
+2826 	Goodwin_127 	Goodwin 	178,437 	178,437 	5,778,545 	Computational Fluid Dynamics 	2018 	
+1899 	tmt_sym 	CEMW 	726,713 	726,713 	5,080,961 	Electromagnetics Problem 	2008 	
+1897 	t2em 	CEMW 	921,632 	921,632 	4,590,832 	Electromagnetics Problem 	2008 	
+1898 	tmt_unsym 	CEMW 	917,825 	917,825 	4,584,801 	Electromagnetics Problem 	2008 	
+2756 	iChem_Jacobian 	Meng 	274,087 	274,087 	4,137,369 	Computational Chemistry Problem 	2015 	
+1399 	laminar_duct3D 	Raju 	67,173 	67,173 	3,788,857 	Computational Fluid Dynamics Problem 	2006 	
+1853 	parabolic_fem 	Wissgott 	525,825 	525,825 	3,674,625 	Computational Fluid Dynamics Problem 	2007 	
+2830 	ifiss_mat 	Embree 	96,307 	96,307 	3,599,932 	Computational Fluid Dynamics 	2015 	
+2307 	amazon0601 	SNAP 	403,394 	403,394 	3,387,388 	Directed Graph 	2003 	
+2306 	amazon0505 	SNAP 	410,236 	410,236 	3,356,824 	Directed Graph 	2003
+2825 	Goodwin_095 	Goodwin 	100,037 	100,037 	3,226,066 	Computational Fluid Dynamics 	2018 	
+803 	3dtube 	Rothberg 	45,330 	45,330 	3,213,618 	Computational Fluid Dynamics Problem 	1997 	
+2305 	amazon0312 	SNAP 	400,727 	400,727 	3,200,440 	Directed Graph 	2003 	
+805 	cfd2 	Rothberg 	123,440 	123,440 	3,085,406 	Computational Fluid Dynamics Problem 	1997 	
+1274 	ramage02 	GHS_psdef 	16,830 	16,830 	2,866,352 	Computational Fluid Dynamics Problem 	2004 	
+2570 	CurlCurl_1 	Bodendiek 	226,451 	226,451 	2,472,071 	Model Reduction Problem 	2012 	
+928 	poisson3Db 	FEMLAB 	85,623 	85,623 	2,374,949 	Computational Fluid Dynamics Problem 	2003 	
+374 	rma10 	Bova 	46,835 	46,835 	2,329,092 	Computational Fluid Dynamics Problem 	1997 	
+1880 	water_tank 	Rudnyi 	60,740 	60,740 	2,035,281 	Computational Fluid Dynamics Problem 	2007 	
+1643 	mixtank_new 	POLYFLOW 	29,957 	29,957 	1,990,919 	Computational Fluid Dynamics Problem 	2005 	
+1602 	conf6_0-8x8-20 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1598 	conf5_4-8x8-05 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1604 	conf6_0-8x8-80 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1599 	conf5_4-8x8-10 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1601 	conf5_4-8x8-20 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1600 	conf5_4-8x8-15 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+1603 	conf6_0-8x8-30 	QCD 	49,152 	49,152 	1,916,928 	Theoretical/Quantum Chemistry Problem 	1999 	
+804 	cfd1 	Rothberg 	70,656 	70,656 	1,825,580 	Computational Fluid Dynamics Problem 	1997 	
+2824 	Goodwin_071 	Goodwin 	56,021 	56,021 	1,797,934 	Computational Fluid Dynamics 	2018 	
+1642 	invextr1_new 	POLYFLOW 	30,412 	30,412 	1,793,881 	Computational Fluid Dynamics Problem 	2005
+812 	bbmat 	Simon 	38,744 	38,744 	1,771,722 	Computational Fluid Dynamics Problem 	1993 	
+1878 	fem_filter 	Lee 	74,062 	74,062 	1,731,206 	Electromagnetics Problem 	2008 	
+820 	venkat01 	Simon 	62,424 	62,424 	1,717,792 	Computational Fluid Dynamics Problem Sequence 	1993 	
+822 	venkat50 	Simon 	62,424 	62,424 	1,717,777 	Subsequent Computational Fluid Dynamics Problem 	1993 	
+821 	venkat25 	Simon 	62,424 	62,424 	1,717,763 	Subsequent Computational Fluid Dynamics Problem 	1993 	
+925 	ns3Da 	FEMLAB 	20,414 	20,414 	1,679,599 	Computational Fluid Dynamics Problem 	2003 	
+1919 	2cubes_sphere 	Um 	101,492 	101,492 	1,647,264 	Electromagnetics Problem 	2008 	
+816 	raefsky3 	Simon 	21,200 	21,200 	1,488,768 	Computational Fluid Dynamics Problem 	1993 	
+1900 	vfem 	CEMW 	93,476 	93,476 	1,434,636 	Electromagnetics Problem 	2008 	
+2304 	amazon0302 	SNAP 	262,111 	262,111 	1,234,877 	Directed Graph 	2003 	
+409 	ex11 	FIDAP 	16,614 	16,614 	1,096,948 	Computational Fluid Dynamics Problem 	1994 	
+2823 	Goodwin_054 	Goodwin 	32,510 	32,510 	1,030,878 	Computational Fluid Dynamics 	2018 	
+447 	rim 	Goodwin 	22,560 	22,560 	1,014,951 	Computational Fluid Dynamics Problem 	1995 	
+2576 	smallworld 	DIMACS10 	100,000 	100,000 	999,996 	Random Undirected Graph 	2011 	
+2815 	windtunnel_evap3d 	Grueninger 	40,816 	40,816 	803,978 	Computational Fluid Dynamics Problem 	2017 	
+1230 	copter2 	GHS_indef 	55,476 	55,476 	759,952 	Computational Fluid Dynamics Problem 	2004 	
+1256 	copter2 	GHS_psdef 	55,476 	55,476 	759,952 	Duplicate Computational Fluid Dynamics Problem 	2004 	
+1184 	Pres_Poisson 	ACUSIM 	14,822 	14,822 	715,804 	Computational Fluid Dynamics Problem 	2004 	
+2264 	tomographic1 	Clark 	73,159 	59,498 	647,495 	Computer Graphics/Vision Problem 	2009 	
+2822 	Goodwin_040 	Goodwin 	17,922 	17,922 	561,677 	Computational Fluid Dynamics 	2018
+1246 	stokes128 	GHS_indef 	49,666 	49,666 	558,594 	Computational Fluid Dynamics Problem 	2004 	
+894 	lung2 	Norris 	109,460 	109,460 	492,564 	Computational Fluid Dynamics Problem 	2003 	
+291 	af23560 	Bai 	23,560 	23,560 	460,598 	Computational Fluid Dynamics Problem 	1991 	
+435 	ex40 	FIDAP 	7,740 	7,740 	456,188 	Computational Fluid Dynamics Problem 	1994 	
+2335 	GT01R 	Fluorem 	7,980 	7,980 	430,909 	Computational Fluid Dynamics Problem 	2010 	
+445 	garon2 	Garon 	13,535 	13,535 	373,235 	Computational Fluid Dynamics Problem 	1996 	
+2293 	cit-HepTh 	SNAP 	27,770 	27,770 	352,807 	Directed Graph 	2003 	
+927 	poisson3Da 	FEMLAB 	13,514 	13,514 	352,762 	Computational Fluid Dynamics Problem 	2003 	
+448 	graham1 	Graham 	9,035 	9,035 	335,472 	Computational Fluid Dynamics Problem 	1998 	
+809 	shyy161 	Shyy 	76,480 	76,480 	329,762 	Computational Fluid Dynamics Problem 	1994 	
+2261 	shallow_water1 	MaxPlanck 	81,920 	81,920 	327,680 	Computational Fluid Dynamics Problem 	2009 	
+2262 	shallow_water2 	MaxPlanck 	81,920 	81,920 	327,680 	Computational Fluid Dynamics Problem 	2009 	
+446 	goodwin 	Goodwin 	7,320 	7,320 	324,772 	Computational Fluid Dynamics Problem 	1995 	
+2821 	Goodwin_030 	Goodwin 	10,142 	10,142 	312,814 	Computational Fluid Dynamics 	2018 	
+815 	raefsky2 	Simon 	3,242 	3,242 	293,551 	Subsequent Computational Fluid Dynamics Problem 	1993 	
+814 	raefsky1 	Simon 	3,242 	3,242 	293,409 	Computational Fluid Dynamics Problem Sequence 	1993 	
+1319 	airfoil_2d 	Engwirda 	14,214 	14,214 	259,688 	Computational Fluid Dynamics Problem 	2006 	
+415 	ex19 	FIDAP 	12,005 	12,005 	259,577 	Computational Fluid Dynamics Problem 	1994 	
+431 	ex35 	FIDAP 	19,716 	19,716 	227,872 	Computational Fluid Dynamics Problem 	1994 	
+2717 	lowThrust_13 	VDOL 	18,476 	18,476 	224,897 	Optimal Control Problem 	2015
+2716 	lowThrust_12 	VDOL 	18,458 	18,458 	224,593 	Optimal Control Problem 	2015 	
+2715 	lowThrust_11 	VDOL 	18,368 	18,368 	223,801 	Optimal Control Problem 	2015 	
+2714 	lowThrust_10 	VDOL 	18,260 	18,260 	222,005 	Optimal Control Problem 	2015 	
+2713 	lowThrust_9 	VDOL 	18,044 	18,044 	219,589 	Optimal Control Problem 	2015 	
+2270 	ABACUS_shell_ld 	Puri 	23,412 	23,412 	218,484 	Model Reduction Problem 	2009 	
+2272 	ABACUS_shell_hd 	Puri 	23,412 	23,412 	218,484 	Model Reduction Problem 	2009 	
+2271 	ABACUS_shell_md 	Puri 	23,412 	23,412 	218,484 	Model Reduction Problem 	2009 	
+2269 	ABACUS_shell_ud 	Puri 	23,412 	23,412 	218,484 	Model Reduction Problem 	2009 	
+2712 	lowThrust_8 	VDOL 	17,702 	17,702 	216,445 	Optimal Control Problem 	2015 	
+2711 	lowThrust_7 	VDOL 	17,378 	17,378 	211,561 	Optimal Control Problem 	2015 	
+1255 	copter1 	GHS_psdef 	17,222 	17,222 	211,064 	Computational Fluid Dynamics Problem 	2004 	
+2710 	lowThrust_6 	VDOL 	16,928 	16,928 	207,349 	Optimal Control Problem 	2015 	
+376 	coater2 	Brethour 	9,540 	9,540 	207,308 	Computational Fluid Dynamics Problem 	1997 	
+2709 	lowThrust_5 	VDOL 	16,262 	16,262 	198,369 	Optimal Control Problem 	2015 	
+1862 	Ill_Stokes 	Szczerba 	20,896 	20,896 	191,368 	Computational Fluid Dynamics Problem 	2007 	
+2797 	wiki-RfA 	SNAP 	11,380 	11,380 	188,077 	Directed Weighted Temporal Multigraph 	2014 	
+2820 	Goodwin_023 	Goodwin 	6,005 	6,005 	182,168 	Computational Fluid Dynamics 	2018 	
+2708 	lowThrust_4 	VDOL 	13,562 	13,562 	160,947 	Optimal Control Problem 	2015 	
+2695 	hangGlider_5 	VDOL 	16,011 	16,011 	155,246 	Optimal Control Problem 	2015 	
+2694 	hangGlider_4 	VDOL 	15,561 	15,561 	149,532 	Optimal Control Problem 	2015
+1248 	stokes64s 	GHS_indef 	12,546 	12,546 	140,034 	Computational Fluid Dynamics Problem 	2004 	
+1247 	stokes64 	GHS_indef 	12,546 	12,546 	140,034 	Computational Fluid Dynamics Problem 	2004 	
+405 	cavity26 	DRIVCAV 	4,562 	4,562 	138,040 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+403 	cavity24 	DRIVCAV 	4,562 	4,562 	138,040 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+401 	cavity22 	DRIVCAV 	4,562 	4,562 	138,040 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+399 	cavity20 	DRIVCAV 	4,562 	4,562 	138,040 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+397 	cavity18 	DRIVCAV 	4,562 	4,562 	138,040 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+395 	cavity16 	DRIVCAV 	4,562 	4,562 	137,887 	Computational Fluid Dynamics Problem Sequence 	1996 	
+404 	cavity25 	DRIVCAV 	4,562 	4,562 	131,735 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+402 	cavity23 	DRIVCAV 	4,562 	4,562 	131,735 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+400 	cavity21 	DRIVCAV 	4,562 	4,562 	131,735 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+398 	cavity19 	DRIVCAV 	4,562 	4,562 	131,735 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+396 	cavity17 	DRIVCAV 	4,562 	4,562 	131,735 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+1594 	conf5_0-4x4-22 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1596 	conf6_0-4x4-20 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1595 	conf5_0-4x4-26 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1593 	conf5_0-4x4-18 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1592 	conf5_0-4x4-14 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1597 	conf6_0-4x4-30 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999 	
+1591 	conf5_0-4x4-10 	QCD 	3,072 	3,072 	119,808 	Theoretical/Quantum Chemistry Problem 	1999
+2569 	CurlCurl_0 	Bodendiek 	11,083 	11,083 	113,343 	Model Reduction Problem 	2012 	
+2814 	windtunnel_evap2d 	Grueninger 	8,256 	8,256 	109,368 	Computational Fluid Dynamics Problem 	2017 	
+1624 	mhd4800a 	Bai 	4,800 	4,800 	102,252 	Electromagnetics Problem 	1994 	
+440 	ex9 	FIDAP 	3,363 	3,363 	99,471 	Computational Fluid Dynamics Problem 	1994 	
+413 	ex15 	FIDAP 	6,867 	6,867 	98,671 	Computational Fluid Dynamics Problem 	1994 	
+2819 	Goodwin_017 	Goodwin 	3,317 	3,317 	97,773 	Computational Fluid Dynamics 	2018 	
+2693 	hangGlider_3 	VDOL 	10,260 	10,260 	92,703 	Optimal Control Problem 	2015 	
+428 	ex31 	FIDAP 	3,909 	3,909 	91,223 	Computational Fluid Dynamics Problem 	1994 	
+439 	ex8 	FIDAP 	3,096 	3,096 	90,841 	Computational Fluid Dynamics Problem 	1994 	
+2704 	kineticBatchReactor_9 	VDOL 	8,115 	8,115 	86,183 	Optimal Control Problem 	2015 	
+2703 	kineticBatchReactor_8 	VDOL 	8,052 	8,052 	85,194 	Optimal Control Problem 	2015 	
+444 	garon1 	Garon 	3,175 	3,175 	84,723 	Computational Fluid Dynamics Problem 	1996 	
+2702 	kineticBatchReactor_7 	VDOL 	7,968 	7,968 	84,508 	Optimal Control Problem 	2015 	
+35 	bcsstk13 	HB 	2,003 	2,003 	83,883 	Computational Fluid Dynamics Problem 	1982 	
+2701 	kineticBatchReactor_6 	VDOL 	7,773 	7,773 	82,500 	Optimal Control Problem 	2015 	
+2700 	kineticBatchReactor_5 	VDOL 	7,641 	7,641 	80,767 	Optimal Control Problem 	2015 	
+2707 	lowThrust_3 	VDOL 	7,064 	7,064 	80,645 	Optimal Control Problem 	2015 	
+410 	ex12 	FIDAP 	3,973 	3,973 	79,077 	Computational Fluid Dynamics Problem 	1994 	
+425 	ex28 	FIDAP 	2,603 	2,603 	77,031 	Computational Fluid Dynamics Problem 	1994 	
+393 	cavity14 	DRIVCAV 	2,597 	2,597 	76,258 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+391 	cavity12 	DRIVCAV 	2,597 	2,597 	76,258 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+389 	cavity10 	DRIVCAV 	2,597 	2,597 	76,171 	Computational Fluid Dynamics Problem Sequence 	1996 	
+411 	ex13 	FIDAP 	2,568 	2,568 	75,628 	Computational Fluid Dynamics Problem 	1994 	
+2699 	kineticBatchReactor_4 	VDOL 	7,105 	7,105 	74,869 	Optimal Control Problem 	2015 	
+423 	ex26 	FIDAP 	2,163 	2,163 	74,464 	Computational Fluid Dynamics Problem 	1994 	
+414 	ex18 	FIDAP 	5,773 	5,773 	71,701 	Computational Fluid Dynamics Problem 	1994 	
+392 	cavity13 	DRIVCAV 	2,597 	2,597 	71,601 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+394 	cavity15 	DRIVCAV 	2,597 	2,597 	71,601 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+390 	cavity11 	DRIVCAV 	2,597 	2,597 	71,601 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+1622 	mhd3200a 	Bai 	3,200 	3,200 	68,026 	Electromagnetics Problem 	1994 	
+417 	ex20 	FIDAP 	2,203 	2,203 	67,830 	Computational Fluid Dynamics Problem 	1994 	
+433 	ex37 	FIDAP 	3,565 	3,565 	67,591 	Computational Fluid Dynamics Problem 	1994 	
+412 	ex14 	FIDAP 	3,251 	3,251 	65,875 	Computational Fluid Dynamics Problem 	1994 	
+2850 	dendrimer 	Negre 	730 	730 	63,024 	Computational Chemistry Problem 	2018 	
+408 	ex10hs 	FIDAP 	2,548 	2,548 	57,308 	Computational Fluid Dynamics Problem 	1994 	
+2818 	Goodwin_013 	Goodwin 	1,965 	1,965 	56,069 	Computational Fluid Dynamics 	2018 	
+407 	ex10 	FIDAP 	2,410 	2,410 	54,840 	Computational Fluid Dynamics Problem 	1994 	
+2698 	kineticBatchReactor_3 	VDOL 	5,082 	5,082 	53,219 	Optimal Control Problem 	2015 	
+432 	ex36 	FIDAP 	3,079 	3,079 	53,099 	Computational Fluid Dynamics Problem 	1994 	
+427 	ex3 	FIDAP 	1,821 	1,821 	52,685 	Computational Fluid Dynamics Problem 	1994
+437 	ex6 	FIDAP 	1,651 	1,651 	49,062 	Computational Fluid Dynamics Problem 	1994 	
+421 	ex24 	FIDAP 	2,283 	2,283 	47,901 	Computational Fluid Dynamics Problem 	1994 	
+438 	ex7 	FIDAP 	1,633 	1,633 	46,626 	Computational Fluid Dynamics Problem 	1994 	
+2697 	kineticBatchReactor_2 	VDOL 	4,361 	4,361 	44,840 	Optimal Control Problem 	2015 	
+2688 	freeFlyingRobot_16 	VDOL 	6,078 	6,078 	44,006 	Optimal Control Problem 	2015 	
+2685 	freeFlyingRobot_13 	VDOL 	5,718 	5,718 	43,994 	Optimal Control Problem 	2015 	
+2687 	freeFlyingRobot_15 	VDOL 	6,038 	6,038 	43,378 	Optimal Control Problem 	2015 	
+2686 	freeFlyingRobot_14 	VDOL 	5,958 	5,958 	43,298 	Optimal Control Problem 	2015 	
+420 	ex23 	FIDAP 	1,409 	1,409 	42,760 	Computational Fluid Dynamics Problem 	1994 	
+2684 	freeFlyingRobot_12 	VDOL 	5,578 	5,578 	41,940 	Optimal Control Problem 	2015 	
+2682 	freeFlyingRobot_10 	VDOL 	5,218 	5,218 	40,080 	Optimal Control Problem 	2015 	
+2683 	freeFlyingRobot_11 	VDOL 	5,438 	5,438 	40,054 	Optimal Control Problem 	2015 	
+2681 	freeFlyingRobot_9 	VDOL 	4,778 	4,778 	39,964 	Optimal Control Problem 	2015 	
+2733 	spaceShuttleEntry_4 	VDOL 	2,450 	2,450 	39,669 	Optimal Control Problem 	2015 	
+2672 	dynamicSoaringProblem_8 	VDOL 	3,543 	3,543 	38,136 	Optimal Control Problem 	2015 	
+2729 	reorientation_8 	VDOL 	3,108 	3,108 	37,894 	Optimal Control Problem 	2015 	
+2671 	dynamicSoaringProblem_7 	VDOL 	3,511 	3,511 	37,680 	Optimal Control Problem 	2015 	
+424 	ex27 	FIDAP 	974 	974 	37,652 	Computational Fluid Dynamics Problem 	1994 	
+2727 	reorientation_6 	VDOL 	3,006 	3,006 	37,342 	Optimal Control Problem 	2015 	
+2728 	reorientation_7 	VDOL 	3,057 	3,057 	37,150 	Optimal Control Problem 	2015
+2669 	dynamicSoaringProblem_5 	VDOL 	3,271 	3,271 	36,789 	Optimal Control Problem 	2015 	
+2670 	dynamicSoaringProblem_6 	VDOL 	3,431 	3,431 	36,741 	Optimal Control Problem 	2015 	
+2668 	dynamicSoaringProblem_4 	VDOL 	3,191 	3,191 	36,516 	Optimal Control Problem 	2015 	
+2726 	reorientation_5 	VDOL 	2,904 	2,904 	35,590 	Optimal Control Problem 	2015 	
+2680 	freeFlyingRobot_8 	VDOL 	4,398 	4,398 	34,958 	Optimal Control Problem 	2015 	
+2725 	reorientation_4 	VDOL 	2,717 	2,717 	33,630 	Optimal Control Problem 	2015 	
+386 	cavity07 	DRIVCAV 	1,182 	1,182 	32,702 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+388 	cavity09 	DRIVCAV 	1,182 	1,182 	32,702 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+384 	cavity05 	DRIVCAV 	1,182 	1,182 	32,632 	Computational Fluid Dynamics Problem Sequence 	1996 	
+2817 	Goodwin_010 	Goodwin 	1,182 	1,182 	32,282 	Computational Fluid Dynamics 	2018 	
+2724 	reorientation_3 	VDOL 	2,513 	2,513 	32,166 	Optimal Control Problem 	2015 	
+2667 	dynamicSoaringProblem_3 	VDOL 	2,871 	2,871 	32,022 	Optimal Control Problem 	2015 	
+434 	ex4 	FIDAP 	1,601 	1,601 	31,849 	Computational Fluid Dynamics Problem 	1994 	
+2679 	freeFlyingRobot_7 	VDOL 	3,918 	3,918 	31,046 	Optimal Control Problem 	2015 	
+385 	cavity06 	DRIVCAV 	1,182 	1,182 	29,675 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+387 	cavity08 	DRIVCAV 	1,182 	1,182 	29,675 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+332 	rdb5000 	Bai 	5,000 	5,000 	29,600 	Computational Fluid Dynamics Problem 	1994 	
+2732 	spaceShuttleEntry_3 	VDOL 	1,834 	1,834 	28,757 	Optimal Control Problem 	2015 	
+1625 	mhd4800b 	Bai 	4,800 	4,800 	27,520 	Electromagnetics Problem 	1994 	
+2678 	freeFlyingRobot_6 	VDOL 	3,358 	3,358 	27,030 	Optimal Control Problem 	2015
+416 	ex2 	FIDAP 	441 	441 	26,839 	Computational Fluid Dynamics Problem 	1994 	
+2706 	lowThrust_2 	VDOL 	2,312 	2,312 	26,261 	Optimal Control Problem 	2015 	
+189 	lns_3937 	HB 	3,937 	3,937 	25,407 	Computational Fluid Dynamics Problem 	1982 	
+191 	lnsp3937 	HB 	3,937 	3,937 	25,407 	Computational Fluid Dynamics Problem 	1982 	
+2677 	freeFlyingRobot_5 	VDOL 	2,878 	2,878 	24,582 	Optimal Control Problem 	2015 	
+422 	ex25 	FIDAP 	848 	848 	24,369 	Computational Fluid Dynamics Problem 	1994 	
+2747 	spaceStation_14 	VDOL 	1,640 	1,640 	24,324 	Optimal Control Problem 	2015 	
+2731 	spaceShuttleEntry_2 	VDOL 	1,428 	1,428 	24,073 	Optimal Control Problem 	2015 	
+1500 	geom 	Pajek 	7,343 	7,343 	23,796 	Undirected Weighted Graph 	2002 	
+426 	ex29 	FIDAP 	2,870 	2,870 	23,754 	Computational Fluid Dynamics Problem 	1994 	
+2746 	spaceStation_13 	VDOL 	1,617 	1,617 	23,649 	Optimal Control Problem 	2015 	
+243 	sherman2 	HB 	1,080 	1,080 	23,094 	Computational Fluid Dynamics Problem 	1984 	
+419 	ex22 	FIDAP 	839 	839 	22,460 	Computational Fluid Dynamics Problem 	1994 	
+241 	saylr4 	HB 	3,564 	3,564 	22,316 	Computational Fluid Dynamics Problem 	1984 	
+430 	ex33 	FIDAP 	1,733 	1,733 	22,189 	Computational Fluid Dynamics Problem 	1994 	
+68 	bcsstm13 	HB 	2,003 	2,003 	21,181 	Computational Fluid Dynamics Problem 	1982 	
+246 	sherman5 	HB 	3,312 	3,312 	20,793 	Computational Fluid Dynamics Problem 	1984 	
+2696 	kineticBatchReactor_1 	VDOL 	2,052 	2,052 	20,600 	Optimal Control Problem 	2015 	
+2777 	CollegeMsg 	SNAP 	1,899 	1,899 	20,296 	Directed Temporal Multigraph 	2009 	
+810 	shyy41 	Shyy 	4,720 	4,720 	20,042 	Computational Fluid Dynamics Problem 	1994
+244 	sherman3 	HB 	5,005 	5,005 	20,033 	Computational Fluid Dynamics Problem 	1984 	
+322 	olm5000 	Bai 	5,000 	5,000 	19,996 	Computational Fluid Dynamics Problem 	1994 	
+2745 	spaceStation_12 	VDOL 	1,410 	1,410 	19,728 	Optimal Control Problem 	2015 	
+2742 	spaceStation_9 	VDOL 	1,180 	1,180 	19,674 	Optimal Control Problem 	2015 	
+375 	coater1 	Brethour 	1,348 	1,348 	19,457 	Computational Fluid Dynamics Problem 	1997 	
+418 	ex21 	FIDAP 	656 	656 	18,964 	Computational Fluid Dynamics Problem 	1994 	
+2744 	spaceStation_11 	VDOL 	1,364 	1,364 	18,954 	Optimal Control Problem 	2015 	
+2741 	spaceStation_8 	VDOL 	1,157 	1,157 	18,945 	Optimal Control Problem 	2015 	
+1633 	rdb3200l 	Bai 	3,200 	3,200 	18,880 	Computational Fluid Dynamics Problem 	1994 	
+1623 	mhd3200b 	Bai 	3,200 	3,200 	18,316 	Electromagnetics Problem 	1994 	
+2740 	spaceStation_7 	VDOL 	1,134 	1,134 	18,252 	Optimal Control Problem 	2015 	
+2676 	freeFlyingRobot_4 	VDOL 	2,358 	2,358 	18,218 	Optimal Control Problem 	2015 	
+2723 	reorientation_2 	VDOL 	1,544 	1,544 	17,910 	Optimal Control Problem 	2015 	
+2739 	spaceStation_6 	VDOL 	1,111 	1,111 	17,595 	Optimal Control Problem 	2015 	
+2743 	spaceStation_10 	VDOL 	1,272 	1,272 	17,478 	Optimal Control Problem 	2015 	
+2666 	dynamicSoaringProblem_2 	VDOL 	1,591 	1,591 	15,588 	Optimal Control Problem 	2015 	
+2738 	spaceStation_5 	VDOL 	1,019 	1,019 	15,219 	Optimal Control Problem 	2015 	
+2692 	hangGlider_2 	VDOL 	1,647 	1,647 	14,754 	Optimal Control Problem 	2015 	
+227 	orsreg_1 	HB 	2,205 	2,205 	14,133 	Computational Fluid Dynamics Problem 	1984 	
+2737 	spaceStation_4 	VDOL 	950 	950 	13,626 	Optimal Control Problem 	2015 	
+2404 	power 	Newman 	4,941 	4,941 	13,188 	Undirected Graph 	1998 	
+2675 	freeFlyingRobot_3 	VDOL 	1,718 	1,718 	12,922 	Optimal Control Problem 	2015 	
+331 	rdb2048 	Bai 	2,048 	2,048 	12,032 	Computational Fluid Dynamics Problem 	1994 	
+1632 	rdb2048_noL 	Bai 	2,048 	2,048 	12,032 	Computational Fluid Dynamics Problem 	1994 	
+2334 	DK01R 	Fluorem 	903 	903 	11,766 	Computational Fluid Dynamics Problem 	2010 	
+2674 	freeFlyingRobot_2 	VDOL 	1,338 	1,338 	11,600 	Optimal Control Problem 	2015 	
+259 	watt_2 	HB 	1,856 	1,856 	11,550 	Computational Fluid Dynamics Problem 	1983 	
+258 	watt_1 	HB 	1,856 	1,856 	11,360 	Computational Fluid Dynamics Problem 	1983 	
+429 	ex32 	FIDAP 	1,159 	1,159 	11,047 	Computational Fluid Dynamics Problem 	1994 	
+233 	pores_2 	HB 	1,224 	1,224 	9,613 	Computational Fluid Dynamics Problem 	1980 	
+2690 	goddardRocketProblem_2 	VDOL 	867 	867 	9,058 	Optimal Control Problem 	2015 	
+1640 	tols4000 	Bai 	4,000 	4,000 	8,784 	Computational Fluid Dynamics Problem 	1991 	
+314 	mhda416 	Bai 	416 	416 	8,562 	Electromagnetics Problem 	1994 	
+2689 	goddardRocketProblem_1 	VDOL 	831 	831 	8,498 	Optimal Control Problem 	2015 	
+320 	olm2000 	Bai 	2,000 	2,000 	7,996 	Computational Fluid Dynamics Problem 	1994 	
+2721 	orbitRaising_4 	VDOL 	915 	915 	7,790 	Optimal Control Problem 	2015 	
+893 	lung1 	Norris 	1,650 	1,650 	7,419 	Computational Fluid Dynamics Problem 	2003 	
+2722 	reorientation_1 	VDOL 	677 	677 	7,326 	Optimal Control Problem 	2015 	
+382 	cavity03 	DRIVCAV 	317 	317 	7,311 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+1629 	rdb1250l 	Bai 	1,250 	1,250 	7,300 	Computational Fluid Dynamics Problem 	1994
+1628 	rdb1250 	Bai 	1,250 	1,250 	7,300 	Computational Fluid Dynamics Problem 	1994 	
+380 	cavity01 	DRIVCAV 	317 	317 	7,280 	Computational Fluid Dynamics Problem Sequence 	1996 	
+2730 	spaceShuttleEntry_1 	VDOL 	560 	560 	6,891 	Optimal Control Problem 	2015 	
+225 	orsirr_1 	HB 	1,030 	1,030 	6,858 	Computational Fluid Dynamics Problem 	1984 	
+2719 	orbitRaising_2 	VDOL 	739 	739 	6,526 	Optimal Control Problem 	2015 	
+2705 	lowThrust_1 	VDOL 	584 	584 	6,133 	Optimal Control Problem 	2015 	
+2720 	orbitRaising_3 	VDOL 	761 	761 	6,098 	Optimal Control Problem 	2015 	
+226 	orsirr_2 	HB 	886 	886 	5,970 	Computational Fluid Dynamics Problem 	1984 	
+381 	cavity02 	DRIVCAV 	317 	317 	5,923 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+383 	cavity04 	DRIVCAV 	317 	317 	5,923 	Subsequent Computational Fluid Dynamics Problem 	1996 	
+2735 	spaceStation_2 	VDOL 	329 	329 	5,817 	Optimal Control Problem 	2015 	
+252 	steam2 	HB 	600 	600 	5,660 	Computational Fluid Dynamics Problem 	1983 	
+333 	rdb968 	Bai 	968 	968 	5,632 	Computational Fluid Dynamics Problem 	1994 	
+2665 	dynamicSoaringProblem_1 	VDOL 	647 	647 	5,367 	Optimal Control Problem 	2015 	
+2673 	freeFlyingRobot_1 	VDOL 	798 	798 	5,246 	Optimal Control Problem 	2015 	
+1638 	tols2000 	Bai 	2,000 	2,000 	5,184 	Computational Fluid Dynamics Problem 	1991 	
+2736 	spaceStation_3 	VDOL 	467 	467 	5,103 	Optimal Control Problem 	2015 	
+2753 	tumorAntiAngiogenesis_6 	VDOL 	465 	465 	4,795 	Optimal Control Problem 	2015 	
+2755 	tumorAntiAngiogenesis_8 	VDOL 	490 	490 	4,776 	Optimal Control Problem 	2015 	
+2752 	tumorAntiAngiogenesis_5 	VDOL 	460 	460 	4,690 	Optimal Control Problem 	2015
+301 	cdde2 	Bai 	961 	961 	4,681 	Subsequent Computational Fluid Dynamics Problem 	1992 	
+300 	cdde1 	Bai 	961 	961 	4,681 	Computational Fluid Dynamics Problem Sequence 	1992 	
+305 	cdde6 	Bai 	961 	961 	4,681 	Subsequent Computational Fluid Dynamics Problem 	1992 	
+304 	cdde5 	Bai 	961 	961 	4,681 	Subsequent Computational Fluid Dynamics Problem 	1992 	
+303 	cdde4 	Bai 	961 	961 	4,681 	Subsequent Computational Fluid Dynamics Problem 	1992 	
+302 	cdde3 	Bai 	961 	961 	4,681 	Subsequent Computational Fluid Dynamics Problem 	1992 	
+1636 	rdb800l 	Bai 	800 	800 	4,640 	Computational Fluid Dynamics Problem 	1994 	
+2754 	tumorAntiAngiogenesis_7 	VDOL 	475 	475 	4,597 	Optimal Control Problem 	2015 	
+2751 	tumorAntiAngiogenesis_4 	VDOL 	455 	455 	4,593 	Optimal Control Problem 	2015 	
+406 	ex1 	FIDAP 	216 	216 	4,317 	Computational Fluid Dynamics Problem 	1994 	
+338 	tub1000 	Bai 	1,000 	1,000 	3,996 	Computational Fluid Dynamics Problem 	1994 	
+319 	olm1000 	Bai 	1,000 	1,000 	3,996 	Computational Fluid Dynamics Problem 	1994 	
+2750 	tumorAntiAngiogenesis_3 	VDOL 	410 	410 	3,952 	Optimal Control Problem 	2015 	
+245 	sherman4 	HB 	1,104 	1,104 	3,786 	Computational Fluid Dynamics Problem 	1984 	
+240 	saylr3 	HB 	1,000 	1,000 	3,750 	Computational Fluid Dynamics Problem 	1984 	
+242 	sherman1 	HB 	1,000 	1,000 	3,750 	Computational Fluid Dynamics Problem 	1984 	
+1637 	tols1090 	Bai 	1,090 	1,090 	3,546 	Computational Fluid Dynamics Problem 	1991 	
+2691 	hangGlider_1 	VDOL 	360 	360 	3,477 	Optimal Control Problem 	2015 	
+234 	pores_3 	HB 	532 	532 	3,474 	Computational Fluid Dynamics Problem 	1980 	
+2718 	orbitRaising_1 	VDOL 	442 	442 	2,906 	Optimal Control Problem 	2015 	
+193 	lnsp_511 	HB 	511 	511 	2,796 	Computational Fluid Dynamics Problem 	1982 	
+190 	lns_511 	HB 	511 	511 	2,796 	Computational Fluid Dynamics Problem 	1982 	
+2749 	tumorAntiAngiogenesis_2 	VDOL 	305 	305 	2,699 	Optimal Control Problem 	2015 	
+1634 	rdb450 	Bai 	450 	450 	2,580 	Computational Fluid Dynamics Problem 	1994 	
+1635 	rdb450l 	Bai 	450 	450 	2,580 	Computational Fluid Dynamics Problem 	1994 	
+926 	poisson2D 	FEMLAB 	367 	367 	2,417 	Computational Fluid Dynamics Problem 	2003 	
+2392 	celegansneural 	Newman 	297 	297 	2,345 	Directed Weighted Graph 	1998 	
+315 	mhdb416 	Bai 	416 	416 	2,312 	Electromagnetics Problem 	1994 	
+251 	steam1 	HB 	240 	240 	2,248 	Computational Fluid Dynamics Problem 	1983 	
+1639 	tols340 	Bai 	340 	340 	2,196 	Computational Fluid Dynamics Problem 	1991 	
+321 	olm500 	Bai 	500 	500 	1,996 	Computational Fluid Dynamics Problem 	1994 	
+2748 	tumorAntiAngiogenesis_1 	VDOL 	205 	205 	1,783 	Optimal Control Problem 	2015 	
+1641 	tols90 	Bai 	90 	90 	1,746 	Computational Fluid Dynamics Problem 	1991 	
+239 	saylr1 	HB 	238 	238 	1,128 	Computational Fluid Dynamics Problem 	1984 	
+1631 	rdb200l 	Bai 	200 	200 	1,120 	Computational Fluid Dynamics Problem 	1994 	
+1630 	rdb200 	Bai 	200 	200 	1,120 	Computational Fluid Dynamics Problem 	1994 	
+2734 	spaceStation_1 	VDOL 	99 	99 	927 	Optimal Control Problem 	2015 	
+188 	lns_131 	HB 	131 	131 	536 	Computational Fluid Dynamics Problem 	1982 	
+192 	lnsp_131 	HB 	131 	131 	536 	Computational Fluid Dynamics Problem 	1982 	
+318 	olm100 	Bai 	100 	100 	396 	Computational Fluid Dynamics Problem 	1994
+337 	tub100 	Bai 	100 	100 	396 	Computational Fluid Dynamics Problem 	1994 	
+253 	steam3 	HB 	80 	80 	314 	Computational Fluid Dynamics Problem 	1983 	
+436 	ex5 	FIDAP 	27 	27 	279 	Computational Fluid Dynamics Problem 	1994 	
+232 	pores_1 	HB 	30 	30 	180 	Computational Fluid Dynamics Problem 	1980 	

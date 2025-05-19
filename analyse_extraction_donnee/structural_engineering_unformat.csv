@@ -1,0 +1,429 @@
+Id 	Name 	Group 	Rows 	Cols 	Nonzeros 	Kind 	Date 	
+2660 	Queen_4147 	Janna 	4,147,110 	4,147,110 	316,548,962 	2D/3D Problem 	2014 	
+2384 	HV15R 	Fluorem 	2,017,169 	2,017,169 	283,073,458 	Computational Fluid Dynamics Problem 	2011 	
+2508 	rgg_n_2_24_s0 	DIMACS10 	16,777,216 	16,777,216 	265,114,400 	Undirected Random Graph 	2011 	
+2494 	kron_g500-logn21 	DIMACS10 	2,097,152 	2,097,152 	182,082,942 	Undirected Multigraph 	2010 	
+2507 	rgg_n_2_23_s0 	DIMACS10 	8,388,608 	8,388,608 	127,002,786 	Undirected Random Graph 	2011 	
+2548 	Cube_Coup_dt0 	Janna 	2,164,760 	2,164,760 	124,406,070 	Structural Problem 	2012 	
+2549 	Cube_Coup_dt6 	Janna 	2,164,760 	2,164,760 	124,406,070 	Structural Problem 	2012 	
+2544 	Flan_1565 	Janna 	1,564,794 	1,564,794 	114,165,372 	Structural Problem 	2011 	
+2650 	ML_Geer 	Janna 	1,504,002 	1,504,002 	110,686,677 	Structural Problem 	2012 	
+2511 	europe_osm 	DIMACS10 	50,912,018 	50,912,018 	108,109,320 	Undirected Graph 	2010 	
+2479 	delaunay_n24 	DIMACS10 	16,777,216 	16,777,216 	100,663,202 	Undirected Graph 	2011 	
+2493 	kron_g500-logn20 	DIMACS10 	1,048,576 	1,048,576 	89,239,674 	Undirected Multigraph 	2010 	
+2496 	channel-500x100x100-b050 	DIMACS10 	4,802,000 	4,802,000 	85,362,744 	Undirected Graph 	2011 	
+2550 	Long_Coup_dt0 	Janna 	1,470,152 	1,470,152 	84,422,970 	Structural Problem 	2012 	
+2551 	Long_Coup_dt6 	Janna 	1,470,152 	1,470,152 	84,422,970 	Structural Problem 	2012 	
+1252 	audikw_1 	GHS_psdef 	943,695 	943,695 	77,651,847 	Structural Problem 	2004 	
+2541 	Serena 	Janna 	1,391,349 	1,391,349 	64,131,971 	Structural Problem 	2011 	
+2482 	hugebubbles-00020 	DIMACS10 	21,198,119 	21,198,119 	63,580,358 	Undirected Graph 	2005 	
+2506 	rgg_n_2_22_s0 	DIMACS10 	4,194,304 	4,194,304 	60,718,396 	Undirected Random Graph 	2011 	
+2545 	Geo_1438 	Janna 	1,437,960 	1,437,960 	60,236,322 	Structural Problem 	2011 	
+2546 	Hook_1498 	Janna 	1,498,023 	1,498,023 	59,374,451 	Structural Problem 	2011 	
+2481 	hugebubbles-00010 	DIMACS10 	19,458,087 	19,458,087 	58,359,528 	Undirected Graph 	2005 	
+2459 	road_usa 	DIMACS10 	23,947,347 	23,947,347 	57,708,624 	Undirected Graph 	2011 	
+2480 	hugebubbles-00000 	DIMACS10 	18,318,143 	18,318,143 	54,940,162 	Undirected Graph 	2005 	
+1586 	af_shell10 	Schenk_AFE 	1,508,065 	1,508,065 	52,259,885 	Structural Problem 	2006 	
+2478 	delaunay_n23 	DIMACS10 	8,388,608 	8,388,608 	50,331,568 	Undirected Graph 	2011 	
+2485 	hugetrace-00020 	DIMACS10 	16,002,413 	16,002,413 	47,997,626 	Undirected Graph 	2005 	
+2492 	kron_g500-logn19 	DIMACS10 	524,288 	524,288 	43,562,265 	Undirected Multigraph 	2010 	
+1268 	ldoor 	GHS_psdef 	952,203 	952,203 	42,493,817 	Structural Problem 	2004 	
+2542 	Emilia_923 	Janna 	923,136 	923,136 	40,373,538 	Structural Problem 	2011 	
+1267 	inline_1 	GHS_psdef 	503,712 	503,712 	36,816,170 	Structural Problem 	2004 	
+2484 	hugetrace-00010 	DIMACS10 	12,057,441 	12,057,441 	36,164,358 	Undirected Graph 	2005 	
+2497 	packing-500x100x100-b050 	DIMACS10 	2,145,852 	2,145,852 	34,976,486 	Undirected Graph 	2011 	
+2458 	road_central 	DIMACS10 	14,081,816 	14,081,816 	33,866,826 	Undirected Graph 	2011 	
+2463 	coPapersCiteseer 	DIMACS10 	434,102 	434,102 	32,073,440 	Undirected Graph 	2008 	
+2464 	coPapersDBLP 	DIMACS10 	540,486 	540,486 	30,491,458 	Undirected Graph 	2008 	
+2505 	rgg_n_2_21_s0 	DIMACS10 	2,097,152 	2,097,152 	28,975,990 	Undirected Random Graph 	2011 	
+2648 	ML_Laplace 	Janna 	377,002 	377,002 	27,582,698 	Structural Problem 	2012 	
+2495 	adaptive 	DIMACS10 	6,815,744 	6,815,744 	27,248,640 	Undirected Graph 	2011 	
+2543 	Fault_639 	Janna 	638,802 	638,802 	27,245,944 	Structural Problem 	2011 	
+1411 	F1 	Koutsovasilis 	343,791 	343,791 	26,837,113 	Structural Problem 	2006 	
+2509 	asia_osm 	DIMACS10 	11,950,757 	11,950,757 	25,423,206 	Undirected Graph 	2010 	
+2477 	delaunay_n22 	DIMACS10 	4,194,304 	4,194,304 	25,165,738 	Undirected Graph 	2011 	
+2581 	NLR 	DIMACS10 	4,163,763 	4,163,763 	24,975,952 	Undirected Graph 	2011 	
+2512 	germany_osm 	DIMACS10 	11,548,845 	11,548,845 	24,738,362 	Undirected Graph 	2010 	
+2649 	Transport 	Janna 	1,602,111 	1,602,111 	23,487,281 	Structural Problem 	2012 	
+2578 	AS365 	DIMACS10 	3,799,275 	3,799,275 	22,736,152 	Undirected Graph 	2011 	
+2577 	333SP 	DIMACS10 	3,712,815 	3,712,815 	22,217,266 	Undirected Graph 	2011 	
+2488 	hugetric-00020 	DIMACS10 	7,122,792 	7,122,792 	21,361,554 	Undirected Graph 	2005 	
+2491 	kron_g500-logn18 	DIMACS10 	262,144 	262,144 	21,165,908 	Undirected Multigraph 	2010 	
+2547 	StocF-1465 	Janna 	1,465,137 	1,465,137 	21,005,389 	Computational Fluid Dynamics Problem 	2011 	
+2579 	M6 	DIMACS10 	3,501,776 	3,501,776 	21,003,872 	Undirected Graph 	2011 	
+2487 	hugetric-00010 	DIMACS10 	6,592,765 	6,592,765 	19,771,708 	Undirected Graph 	2005 	
+1644 	msdoor 	INPRO 	415,863 	415,863 	19,173,163 	Structural Problem 	2005 	
+948 	af_shell9 	Schenk_AFE 	504,855 	504,855 	17,588,845 	Subsequent Structural Problem 	2003 	
+946 	af_shell7 	Schenk_AFE 	504,855 	504,855 	17,579,155 	Subsequent Structural Problem 	2003 	
+945 	af_shell6 	Schenk_AFE 	504,855 	504,855 	17,579,155 	Subsequent Structural Problem 	2003 	
+944 	af_shell5 	Schenk_AFE 	504,855 	504,855 	17,579,155 	Subsequent Structural Problem 	2003 	
+947 	af_shell8 	Schenk_AFE 	504,855 	504,855 	17,579,155 	Subsequent Structural Problem 	2003 	
+941 	af_shell2 	Schenk_AFE 	504,855 	504,855 	17,562,051 	Subsequent Structural Problem 	2003 	
+940 	af_shell1 	Schenk_AFE 	504,855 	504,855 	17,562,051 	Structural Problem Sequence 	2003 	
+943 	af_shell4 	Schenk_AFE 	504,855 	504,855 	17,562,051 	Subsequent Structural Problem 	2003 	
+942 	af_shell3 	Schenk_AFE 	504,855 	504,855 	17,562,051 	Subsequent Structural Problem 	2003 	
+1585 	af_5_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+1584 	af_4_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+1583 	af_3_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+1582 	af_2_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+1580 	af_0_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+1581 	af_1_k101 	Schenk_AFE 	503,625 	503,625 	17,550,675 	Structural Problem 	2006 	
+2486 	hugetric-00000 	DIMACS10 	5,824,554 	5,824,554 	17,467,046 	Undirected Graph 	2005 	
+2647 	CoupCons3D 	Janna 	416,800 	416,800 	17,277,420 	Structural Problem 	2012 	
+2513 	great-britain_osm 	DIMACS10 	7,733,822 	7,733,822 	16,313,034 	Undirected Graph 	2010 	
+2236 	TSOPF_RS_b2383_c1 	TSOPF 	38,120 	38,120 	16,171,169 	Power Network Problem 	2009 	
+2219 	TSOPF_RS_b2383 	TSOPF 	38,120 	38,120 	16,171,169 	Power Network Problem 	2009 	
+2498 	venturiLevel3 	DIMACS10 	4,026,819 	4,026,819 	16,108,474 	Undirected Graph 	2011 	
+860 	pkustk14 	Chen 	151,926 	151,926 	14,836,504 	Structural Problem 	2002 	
+1258 	crankseg_2 	GHS_psdef 	63,838 	63,838 	14,148,858 	Structural Problem 	2004 	
+2514 	italy_osm 	DIMACS10 	6,686,493 	6,686,493 	14,027,956 	Undirected Graph 	2010 	
+2504 	rgg_n_2_20_s0 	DIMACS10 	1,048,576 	1,048,576 	13,783,240 	Undirected Random Graph 	2011 	
+2483 	hugetrace-00000 	DIMACS10 	4,588,484 	4,588,484 	13,758,266 	Undirected Graph 	2005 	
+2757 	JP 	Harvard_Seismology 	87,616 	67,320 	13,734,559 	Tomography Problem 	2015 	
+2226 	TSOPF_FS_b300_c3 	TSOPF 	84,414 	84,414 	13,135,930 	Power Network Problem 	2009 	
+2476 	delaunay_n21 	DIMACS10 	2,097,152 	2,097,152 	12,582,816 	Undirected Graph 	2011 	
+1265 	halfb 	DNVS 	224,617 	224,617 	12,387,821 	Structural Problem 	2004 	
+1285 	troll 	DNVS 	213,453 	213,453 	11,985,111 	Structural Problem 	2004 	
+1264 	fullb 	DNVS 	199,187 	199,187 	11,708,077 	Structural Problem 	2004 	
+369 	pwtk 	Boeing 	217,918 	217,918 	11,524,432 	Structural Problem 	1995 	
+1260 	fcondp2 	DNVS 	201,822 	201,822 	11,294,316 	Structural Problem 	2004 	
+1219 	bmw3_2 	GHS_indef 	227,362 	227,362 	11,288,630 	Structural Problem 	2004 	
+1254 	bmwcra_1 	GHS_psdef 	148,770 	148,770 	10,641,602 	Structural Problem 	2004 	
+1257 	crankseg_1 	GHS_psdef 	52,804 	52,804 	10,614,210 	Structural Problem 	2004 	
+2490 	kron_g500-logn17 	DIMACS10 	131,072 	131,072 	10,228,360 	Undirected Multigraph 	2010 	
+1266 	hood 	GHS_psdef 	220,542 	220,542 	9,895,422 	Structural Problem 	2004 	
+1269 	m_t1 	DNVS 	97,578 	97,578 	9,753,570 	Structural Problem 	1999 	
+806 	gearbox 	Rothberg 	153,746 	153,746 	9,080,404 	Structural Problem 	1997 	
+2244 	TSOPF_RS_b678_c2 	TSOPF 	35,696 	35,696 	8,781,949 	Power Network Problem 	2009 	
+2225 	TSOPF_FS_b300_c2 	TSOPF 	56,814 	56,814 	8,767,466 	Power Network Problem 	2009 	
+1290 	x104 	DNVS 	108,384 	108,384 	8,713,602 	Structural Problem 	1999 	
+858 	pkustk12 	Chen 	94,653 	94,653 	7,512,317 	Structural Problem 	2002 	
+1253 	bmw7st_1 	GHS_psdef 	141,347 	141,347 	7,318,399 	Structural Problem 	2004 	
+2235 	TSOPF_RS_b2052_c1 	TSOPF 	25,626 	25,626 	6,761,100 	Power Network Problem 	2009 	
+2519 	auto 	DIMACS10 	448,695 	448,695 	6,629,222 	Undirected Graph 	2000 	
+859 	pkustk13 	Chen 	94,893 	94,893 	6,616,827 	Structural Problem 	2002 	
+2503 	rgg_n_2_19_s0 	DIMACS10 	524,288 	524,288 	6,539,532 	Undirected Random Graph 	2011 	
+2475 	delaunay_n20 	DIMACS10 	1,048,576 	1,048,576 	6,291,372 	Undirected Graph 	2011 	
+2580 	NACA0015 	DIMACS10 	1,039,183 	1,039,183 	6,229,636 	Undirected Graph 	2011 	
+1867 	Chebyshev4 	Muite 	68,121 	68,121 	5,377,761 	Structural Problem 	2007 	
+1861 	F2 	Koutsovasilis 	71,505 	71,505 	5,294,285 	Structural Problem 	2007 	
+857 	pkustk11 	Chen 	87,804 	87,804 	5,217,912 	Structural Problem 	2002 	
+2489 	kron_g500-logn16 	DIMACS10 	65,536 	65,536 	4,912,469 	Undirected Multigraph 	2010 	
+2516 	netherlands_osm 	DIMACS10 	2,216,688 	2,216,688 	4,882,476 	Undirected Graph 	2010 	
+1423 	apache2 	GHS_psdef 	715,176 	715,176 	4,817,870 	Structural Problem 	2006 	
+1910 	engine 	TKK 	143,571 	143,571 	4,706,073 	Structural Problem 	2008 	
+1280 	shipsec5 	DNVS 	179,860 	179,860 	4,598,604 	Structural Problem 	1999 	
+1283 	thread 	DNVS 	29,736 	29,736 	4,444,880 	Structural Problem 	1999 	
+1275 	s3dkq4m2 	GHS_psdef 	90,449 	90,449 	4,427,725 	Structural Problem 	1997 	
+2239 	TSOPF_RS_b300_c3 	TSOPF 	42,138 	42,138 	4,413,449 	Power Network Problem 	2009 	
+2224 	TSOPF_FS_b300_c1 	TSOPF 	29,214 	29,214 	4,400,122 	Power Network Problem 	2009 	
+2220 	TSOPF_FS_b300 	TSOPF 	29,214 	29,214 	4,400,122 	Power Network Problem 	2009 	
+2243 	TSOPF_RS_b678_c1 	TSOPF 	18,696 	18,696 	4,396,289 	Power Network Problem 	2009 	
+2373 	pdb1HYS 	Williams 	36,417 	36,417 	4,344,765 	Weighted Undirected Graph 	2008 	
+856 	pkustk10 	Chen 	80,676 	80,676 	4,308,984 	Structural Problem 	2002 	
+850 	pkustk04 	Chen 	55,590 	55,590 	4,218,660 	Structural Problem 	2002 	
+1277 	ship_001 	DNVS 	34,920 	34,920 	3,896,496 	Structural Problem 	1999 	
+1278 	ship_003 	DNVS 	121,728 	121,728 	3,777,036 	Structural Problem 	1999 	
+1906 	s4dkt3m2 	TKK 	90,449 	90,449 	3,753,461 	Structural Problem 	2008 	
+1909 	smt 	TKK 	25,710 	25,710 	3,749,582 	Structural Problem 	2008 	
+1276 	s3dkt3m2 	GHS_psdef 	90,449 	90,449 	3,686,223 	Structural Problem 	1997 	
+1279 	shipsec1 	DNVS 	140,874 	140,874 	3,568,176 	Structural Problem 	1999 	
+2529 	m14b 	DIMACS10 	214,765 	214,765 	3,358,036 	Undirected Graph 	2000 	
+1281 	shipsec8 	DNVS 	114,919 	114,919 	3,303,553 	Structural Problem 	1999 	
+854 	pkustk08 	Chen 	22,209 	22,209 	3,226,671 	Structural Problem 	2002 	
+932 	sme3Dc 	FEMLAB 	42,930 	42,930 	3,148,656 	Structural Problem 	2003 	
+2474 	delaunay_n19 	DIMACS10 	524,288 	524,288 	3,145,646 	Undirected Graph 	2011 	
+849 	pkustk03 	Chen 	63,336 	63,336 	3,130,416 	Structural Problem 	2002 	
+2228 	TSOPF_FS_b39_c30 	TSOPF 	120,216 	120,216 	3,121,160 	Power Network Problem 	2009 	
+2510 	belgium_osm 	DIMACS10 	1,441,295 	1,441,295 	3,099,940 	Undirected Graph 	2010 	
+2502 	rgg_n_2_18_s0 	DIMACS10 	262,144 	262,144 	3,094,566 	Undirected Random Graph 	2011 	
+1282 	srb1 	GHS_psdef 	54,924 	54,924 	2,962,152 	Structural Problem 	2004 	
+2238 	TSOPF_RS_b300_c2 	TSOPF 	28,338 	28,338 	2,943,887 	Power Network Problem 	2009 	
+368 	pct20stif 	Boeing 	52,329 	52,329 	2,698,463 	Structural Problem 	1995 	
+761 	nasasrb 	Nasa 	54,870 	54,870 	2,677,324 	Structural Problem 	1995 	
+356 	ct20stif 	Boeing 	52,329 	52,329 	2,600,295 	Structural Problem 	1995 	
+852 	pkustk06 	Chen 	43,164 	43,164 	2,571,768 	Structural Problem 	2002 	
+1286 	tsyl201 	DNVS 	20,685 	20,685 	2,454,957 	Structural Problem 	2004 	
+853 	pkustk07 	Chen 	16,860 	16,860 	2,418,804 	Structural Problem 	2002 	
+2223 	TSOPF_FS_b162_c4 	TSOPF 	40,798 	40,798 	2,398,220 	Power Network Problem 	2009 	
+1287 	vanbody 	GHS_psdef 	47,072 	47,072 	2,329,056 	Structural Problem 	2004 	
+2460 	citationCiteseer 	DIMACS10 	268,495 	268,495 	2,313,294 	Undirected Graph 	2008 	
+851 	pkustk05 	Chen 	37,164 	37,164 	2,205,144 	Structural Problem 	2002 	
+2517 	144 	DIMACS10 	144,649 	144,649 	2,148,786 	Undirected Graph 	2000 	
+1270 	oilpan 	GHS_psdef 	73,752 	73,752 	2,148,558 	Structural Problem 	2004 	
+931 	sme3Db 	FEMLAB 	29,067 	29,067 	2,081,063 	Structural Problem 	2003 	
+846 	bcsstk39 	Boeing 	46,772 	46,772 	2,060,662 	Structural Problem 	2002 	
+52 	bcsstk30 	HB 	28,924 	28,924 	2,043,492 	Structural Problem 	1986 	
+54 	bcsstk32 	HB 	44,609 	44,609 	2,014,701 	Structural Problem 	1986 	
+2227 	TSOPF_FS_b39_c19 	TSOPF 	76,216 	76,216 	1,977,600 	Power Network Problem 	2009 	
+2462 	coAuthorsDBLP 	DIMACS10 	299,067 	299,067 	1,955,352 	Undirected Graph 	2008 	
+1284 	trdheim 	DNVS 	22,098 	22,098 	1,935,324 	Structural Problem 	2004 	
+1271 	opt1 	GHS_psdef 	15,449 	15,449 	1,930,655 	Structural Problem 	2004 	
+2222 	TSOPF_FS_b162_c3 	TSOPF 	30,798 	30,798 	1,801,300 	Power Network Problem 	2009 	
+1213 	Lin 	Lin 	256,000 	256,000 	1,766,400 	Structural Problem 	2004 	
+2461 	coAuthorsCiteseer 	DIMACS10 	227,320 	227,320 	1,628,268 	Undirected Graph 	2008 	
+855 	pkustk09 	Chen 	33,960 	33,960 	1,583,640 	Structural Problem 	2002 	
+2473 	delaunay_n18 	DIMACS10 	262,144 	262,144 	1,572,792 	Undirected Graph 	2011 	
+1308 	sparsine 	GHS_indef 	50,000 	50,000 	1,548,988 	Structural Problem 	1995 	
+2518 	598a 	DIMACS10 	110,971 	110,971 	1,483,868 	Undirected Graph 	2000 	
+2237 	TSOPF_RS_b300_c1 	TSOPF 	14,538 	14,538 	1,474,325 	Power Network Problem 	2009 	
+2501 	rgg_n_2_17_s0 	DIMACS10 	131,072 	131,072 	1,457,506 	Undirected Random Graph 	2011 	
+340 	bcsstk35 	Boeing 	30,237 	30,237 	1,450,163 	Structural Problem 	1995 	
+2526 	fe_rotor 	DIMACS10 	99,617 	99,617 	1,324,862 	Undirected Graph 	2000 	
+817 	raefsky4 	Simon 	19,779 	19,779 	1,316,789 	Structural Problem 	1993 	
+361 	msc10848 	Boeing 	10,848 	10,848 	1,229,776 	Structural Problem 	1995 	
+2456 	caidaRouterLevel 	DIMACS10 	192,244 	192,244 	1,218,132 	Undirected Graph 	2011 	
+53 	bcsstk31 	HB 	35,588 	35,588 	1,181,416 	Structural Problem 	1986 	
+807 	struct3 	Rothberg 	53,570 	53,570 	1,173,694 	Structural Problem 	1997 	
+341 	bcsstk36 	Boeing 	23,052 	23,052 	1,143,140 	Structural Problem 	1995 	
+362 	msc23052 	Boeing 	23,052 	23,052 	1,142,686 	Structural Problem 	1995 	
+342 	bcsstk37 	Boeing 	25,503 	25,503 	1,140,977 	Structural Problem 	1995 	
+2241 	TSOPF_RS_b39_c30 	TSOPF 	60,098 	60,098 	1,079,986 	Power Network Problem 	2009 	
+813 	olafu 	Simon 	16,146 	16,146 	1,015,156 	Structural Problem 	1993 	
+1233 	dawson5 	GHS_indef 	51,537 	51,537 	1,010,777 	Structural Problem 	2004 	
+847 	pkustk01 	Chen 	22,044 	22,044 	979,380 	Structural Problem 	2002 	
+1259 	crplat2 	DNVS 	18,010 	18,010 	960,946 	Structural Problem 	2004 	
+2528 	fe_tooth 	DIMACS10 	78,136 	78,136 	905,182 	Undirected Graph 	2000 	
+1915 	tube2 	TKK 	21,498 	21,498 	897,056 	Structural Problem 	2008 	
+1914 	tube1 	TKK 	21,498 	21,498 	897,056 	Structural Problem 	2008 	
+930 	sme3Da 	FEMLAB 	12,504 	12,504 	874,887 	Structural Problem 	2003 	
+2525 	fe_ocean 	DIMACS10 	143,437 	143,437 	819,186 	Undirected Graph 	2000 	
+2234 	TSOPF_RS_b162_c4 	TSOPF 	20,374 	20,374 	812,749 	Power Network Problem 	2009 	
+848 	pkustk02 	Chen 	10,800 	10,800 	810,000 	Structural Problem 	2002 	
+2472 	delaunay_n17 	DIMACS10 	131,072 	131,072 	786,352 	Undirected Graph 	2011 	
+2229 	TSOPF_FS_b39_c7 	TSOPF 	28,216 	28,216 	730,080 	Power Network Problem 	2009 	
+1913 	cyl6 	TKK 	13,681 	13,681 	714,241 	Structural Problem 	2008 	
+2500 	rgg_n_2_16_s0 	DIMACS10 	65,536 	65,536 	684,254 	Undirected Random Graph 	2011 	
+2240 	TSOPF_RS_b39_c19 	TSOPF 	38,098 	38,098 	684,206 	Power Network Problem 	2009 	
+1912 	cbuckle 	TKK 	13,681 	13,681 	676,515 	Structural Problem 	2008 	
+51 	bcsstk29 	HB 	13,992 	13,992 	619,488 	Structural Problem 	1986 	
+2233 	TSOPF_RS_b162_c3 	TSOPF 	15,374 	15,374 	610,299 	Power Network Problem 	2009 	
+2221 	TSOPF_FS_b162_c1 	TSOPF 	10,798 	10,798 	608,540 	Power Network Problem 	2009 	
+55 	bcsstk33 	HB 	8,738 	8,738 	591,904 	Structural Problem 	1986 	
+1263 	ford2 	GHS_psdef 	100,196 	100,196 	544,688 	Structural Problem 	2004 	
+1422 	apache1 	GHS_psdef 	80,800 	80,800 	542,184 	Structural Problem 	2006 	
+885 	tandem_dual 	Pothen 	94,069 	94,069 	460,493 	Structural Problem 	2003 	
+39 	bcsstk17 	HB 	10,974 	10,974 	428,650 	Structural Problem 	1985 	
+879 	onera_dual 	Pothen 	85,567 	85,567 	419,201 	Structural Problem 	2003 	
+2471 	delaunay_n16 	DIMACS10 	65,536 	65,536 	393,150 	Undirected Graph 	2011 	
+343 	bcsstk38 	Boeing 	8,032 	8,032 	355,460 	Structural Problem 	1995 	
+1330 	Kuu 	MathWorks 	7,102 	7,102 	340,200 	Structural Problem 	2006 	
+2524 	fe_body 	DIMACS10 	45,087 	45,087 	327,468 	Undirected Graph 	2000 	
+762 	pwt 	Nasa 	36,519 	36,519 	326,107 	Duplicate Structural Problem 	1995 	
+880 	pwt 	Pothen 	36,519 	36,519 	326,107 	Structural Problem 	2003 	
+1273 	pwt 	GHS_psdef 	36,519 	36,519 	326,107 	Duplicate Structural Problem 	1995 	
+1174 	cegb2919 	HB 	2,919 	2,919 	321,543 	Structural Problem 	1980 	
+346 	bcsstm36 	Boeing 	23,052 	23,052 	320,606 	Structural Problem 	1995 	
+2499 	rgg_n_2_15_s0 	DIMACS10 	32,768 	32,768 	320,480 	Undirected Random Graph 	2011 	
+38 	bcsstk16 	HB 	4,884 	4,884 	290,378 	Structural Problem 	1985 	
+1908 	t520 	TKK 	5,563 	5,563 	286,341 	Structural Problem 	2008 	
+1173 	cegb2802 	HB 	2,802 	2,802 	277,362 	Structural Problem 	1980 	
+1606 	s2rmq4m1 	Cylshell 	5,489 	5,489 	263,351 	Structural Problem 	1997 	
+1607 	s3rmq4m1 	Cylshell 	5,489 	5,489 	262,943 	Structural Problem 	1997 	
+1605 	s1rmq4m1 	Cylshell 	5,489 	5,489 	262,411 	Structural Problem 	1997 	
+886 	tandem_vtx 	Pothen 	18,454 	18,454 	253,350 	Structural Problem 	2003 	
+2242 	TSOPF_RS_b39_c7 	TSOPF 	14,098 	14,098 	252,446 	Power Network Problem 	2009 	
+47 	bcsstk25 	HB 	15,439 	15,439 	252,241 	Structural Problem 	1984 	
+2532 	wing 	DIMACS10 	62,032 	62,032 	243,088 	Undirected Graph 	2000 	
+2515 	luxembourg_osm 	DIMACS10 	114,599 	114,599 	239,332 	Undirected Graph 	2010 	
+2829 	ACTIVSg70K 	TAMU_SmartGridCenter 	69,999 	69,999 	238,627 	Power Network Problem 	2018 	
+808 	struct4 	Rothberg 	4,350 	4,350 	237,798 	Structural Problem 	1997 	
+1182 	man_5976 	HB 	5,976 	5,976 	225,046 	Structural Problem 	1980 	
+50 	bcsstk28 	HB 	4,410 	4,410 	219,024 	Structural Problem 	1984 	
+1609 	s2rmt3m1 	Cylshell 	5,489 	5,489 	217,681 	Structural Problem 	1997 	
+1610 	s3rmt3m1 	Cylshell 	5,489 	5,489 	217,669 	Structural Problem 	1997 	
+1608 	s1rmt3m1 	Cylshell 	5,489 	5,489 	217,651 	Structural Problem 	1997 	
+1907 	g3rmt3m3 	TKK 	5,357 	5,357 	207,695 	Structural Problem 	2008 	
+1611 	s3rmt3m3 	Cylshell 	5,357 	5,357 	207,123 	Structural Problem 	1997 	
+2232 	TSOPF_RS_b162_c1 	TSOPF 	5,374 	5,374 	205,399 	Power Network Problem 	2009 	
+2470 	delaunay_n15 	DIMACS10 	32,768 	32,768 	196,548 	Undirected Graph 	2011 	
+764 	skirt 	Nasa 	12,598 	12,598 	196,520 	Duplicate Structural Problem 	1995 	
+882 	skirt 	Pothen 	12,598 	12,598 	196,520 	Structural Problem 	2003 	
+2530 	t60k 	DIMACS10 	60,005 	60,005 	178,880 	Undirected Graph 	2000 	
+364 	nasa2910 	Boeing 	2,910 	2,910 	174,296 	Duplicate Structural Problem 	1995 	
+759 	nasa2910 	Nasa 	2,910 	2,910 	174,296 	Structural Problem 	1995 	
+1331 	Muu 	MathWorks 	7,102 	7,102 	170,134 	Structural Problem 	2006 	
+818 	raefsky5 	Simon 	6,316 	6,316 	167,178 	Structural Problem 	1993 	
+1180 	lock3491 	HB 	3,491 	3,491 	160,444 	Structural Problem 	1980 	
+46 	bcsstk24 	HB 	3,562 	3,562 	159,910 	Structural Problem 	1984 	
+2533 	wing_nodal 	DIMACS10 	10,937 	10,937 	150,976 	Undirected Graph 	2000 	
+40 	bcsstk18 	HB 	11,948 	11,948 	149,090 	Structural Problem 	1985 	
+2231 	TSOPF_FS_b9_c6 	TSOPF 	14,454 	14,454 	147,972 	Power Network Problem 	2009 	
+2828 	ACTIVSg10K 	TAMU_SmartGridCenter 	20,000 	20,000 	135,888 	Power Network Problem 	2018 	
+870 	bodyy6 	Pothen 	19,366 	19,366 	134,208 	Structural Problem 	2003 	
+819 	raefsky6 	Simon 	3,402 	3,402 	130,371 	Structural Problem 	1993 	
+869 	bodyy5 	Pothen 	18,589 	18,589 	128,853 	Structural Problem 	2003 	
+868 	bodyy4 	Pothen 	17,546 	17,546 	121,550 	Structural Problem 	2003 	
+37 	bcsstk15 	HB 	3,948 	3,948 	117,816 	Structural Problem 	1985 	
+867 	barth5 	Pothen 	15,606 	15,606 	107,362 	Structural Problem 	2003 	
+760 	nasa4704 	Nasa 	4,704 	4,704 	104,756 	Structural Problem 	1995 	
+365 	nasa4704 	Boeing 	4,704 	4,704 	104,756 	Duplicate Structural Problem 	1995 	
+763 	shuttle_eddy 	Nasa 	10,429 	10,429 	103,599 	Duplicate Structural Problem 	1995 	
+881 	shuttle_eddy 	Pothen 	10,429 	10,429 	103,599 	Structural Problem 	2003 	
+1262 	ford1 	GHS_psdef 	18,728 	18,728 	101,576 	Structural Problem 	2004 	
+2527 	fe_sphere 	DIMACS10 	16,386 	16,386 	98,304 	Undirected Graph 	2000 	
+2469 	delaunay_n14 	DIMACS10 	16,384 	16,384 	98,244 	Undirected Graph 	2011 	
+360 	msc04515 	Boeing 	4,515 	4,515 	97,707 	Structural Problem 	1995 	
+864 	comsol 	Langemyr 	1,500 	1,500 	97,645 	Structural Problem 	2002 	
+2521 	cti 	DIMACS10 	16,840 	16,840 	96,464 	Undirected Graph 	2000 	
+2520 	cs4 	DIMACS10 	22,499 	22,499 	87,716 	Undirected Graph 	2000 	
+1917 	t2d_q9 	TKK 	9,801 	9,801 	87,025 	Structural Problem Sequence 	2008 	
+1916 	t2d_q4 	TKK 	9,801 	9,801 	87,025 	Structural Problem Sequence 	2008 	
+1179 	lock2232 	HB 	2,232 	2,232 	80,352 	Structural Problem 	1980 	
+1175 	cegb3024 	HB 	3,024 	3,024 	79,848 	Structural Problem 	1980 	
+1176 	cegb3306 	HB 	3,306 	3,306 	74,916 	Structural Problem 	1980 	
+1214 	sts4098 	Cannizzo 	4,098 	4,098 	72,356 	Structural Problem 	2004 	
+758 	nasa2146 	Nasa 	2,146 	2,146 	72,250 	Structural Problem 	1995 	
+2523 	fe_4elt2 	DIMACS10 	11,143 	11,143 	65,636 	Undirected Graph 	2000 	
+36 	bcsstk14 	HB 	1,806 	1,806 	63,454 	Structural Problem 	1985 	
+756 	barth5 	Nasa 	15,606 	15,606 	61,484 	Duplicate Structural Problem 	1995 	
+49 	bcsstk27 	HB 	1,224 	1,224 	56,126 	Structural Problem 	1984 	
+77 	bcsstm27 	HB 	1,224 	1,224 	56,126 	Structural Problem 	1984 	
+2245 	TSOPF_RS_b9_c6 	TSOPF 	7,224 	7,224 	54,082 	Power Network Problem 	2009 	
+1178 	lock1074 	HB 	1,074 	1,074 	51,588 	Structural Problem 	1980 	
+2468 	delaunay_n13 	DIMACS10 	8,192 	8,192 	49,094 	Undirected Graph 	2011 	
+349 	bcsstm39 	Boeing 	46,772 	46,772 	46,772 	Structural Problem 	1995 	
+865 	barth 	Pothen 	6,691 	6,691 	46,187 	Structural Problem 	2003 	
+2256 	TS 	MathWorks 	2,142 	2,142 	45,262 	Counter Example Problem 	2009 	
+45 	bcsstk23 	HB 	3,134 	3,134 	45,178 	Structural Problem 	1984 	
+359 	msc01440 	Boeing 	1,440 	1,440 	44,998 	Structural Problem 	1995 	
+866 	barth4 	Pothen 	6,019 	6,019 	40,965 	Structural Problem 	2003 	
+363 	nasa1824 	Boeing 	1,824 	1,824 	39,208 	Duplicate Structural Problem 	1995 	
+757 	nasa1824 	Nasa 	1,824 	1,824 	39,208 	Structural Problem 	1995 	
+1866 	Chebyshev3 	Muite 	4,101 	4,101 	36,879 	Structural Problem 	2007 	
+357 	msc00726 	Boeing 	726 	726 	34,518 	Structural Problem 	1995 	
+34 	bcsstk12 	HB 	1,473 	1,473 	34,241 	Duplicate Structural Problem 	1982 	
+33 	bcsstk11 	HB 	1,473 	1,473 	34,241 	Structural Problem 	1982 	
+871 	commanche_dual 	Pothen 	7,920 	7,920 	31,680 	Structural Problem 	2003 	
+1911 	plbuckle 	TKK 	1,282 	1,282 	30,644 	Structural Problem 	2008 	
+48 	bcsstk26 	HB 	1,922 	1,922 	30,336 	Structural Problem 	1984 	
+2522 	data 	DIMACS10 	2,851 	2,851 	30,186 	Undirected Graph 	2000 	
+2827 	ACTIVSg2000 	TAMU_SmartGridCenter 	4,000 	4,000 	28,505 	Power Network Problem 	2018 	
+43 	bcsstk21 	HB 	3,600 	3,600 	26,600 	Structural Problem 	1984 	
+754 	barth 	Nasa 	6,691 	6,691 	26,439 	Duplicate Structural Problem 	1995 	
+358 	msc01050 	Boeing 	1,050 	1,050 	26,198 	Structural Problem 	1995 	
+2230 	TSOPF_FS_b9_c1 	TSOPF 	2,454 	2,454 	25,032 	Power Network Problem 	2009 	
+120 	dwt_2680 	HB 	2,680 	2,680 	25,026 	Structural Problem 	1980 	
+2467 	delaunay_n12 	DIMACS10 	4,096 	4,096 	24,528 	Undirected Graph 	2011 	
+344 	bcsstm34 	Boeing 	588 	588 	24,270 	Structural Problem 	1995 	
+755 	barth4 	Nasa 	6,019 	6,019 	23,492 	Duplicate Structural Problem 	1995 	
+250 	sstmodel 	HB 	3,345 	3,345 	22,749 	Structural Problem 	1983 	
+1181 	lock_700 	HB 	700 	700 	22,175 	Structural Problem 	1980 	
+65 	bcsstm10 	HB 	1,086 	1,086 	22,092 	Structural Problem 	1982 	
+32 	bcsstk10 	HB 	1,086 	1,086 	22,070 	Structural Problem 	1982 	
+339 	bcsstk34 	Boeing 	588 	588 	21,418 	Structural Problem 	1995 	
+345 	bcsstm35 	Boeing 	30,237 	30,237 	20,619 	Structural Problem 	1995 	
+67 	bcsstm12 	HB 	1,473 	1,473 	19,659 	Structural Problem 	1982 	
+1865 	Chebyshev2 	Muite 	2,053 	2,053 	18,447 	Structural Problem 	2007 	
+31 	bcsstk09 	HB 	1,083 	1,083 	18,437 	Structural Problem 	1982 	
+139 	dwt_992 	HB 	992 	992 	16,744 	Structural Problem 	1980 	
+219 	nos3 	HB 	960 	960 	15,844 	Structural Problem 	1982 	
+347 	bcsstm37 	Boeing 	25,503 	25,503 	15,525 	Structural Problem 	1995 	
+75 	bcsstm25 	HB 	15,439 	15,439 	15,439 	Structural Problem 	1984 	
+81 	blckhole 	HB 	2,132 	2,132 	14,872 	Structural Problem 	1983 	
+2531 	uk 	DIMACS10 	4,824 	4,824 	13,674 	Undirected Graph 	2000 	
+30 	bcsstk08 	HB 	1,074 	1,074 	12,960 	Structural Problem 	1982 	
+92 	can_1072 	HB 	1,072 	1,072 	12,444 	Structural Problem 	1981 	
+2466 	delaunay_n11 	DIMACS10 	2,048 	2,048 	12,254 	Undirected Graph 	2011 	
+91 	can_1054 	HB 	1,054 	1,054 	12,196 	Structural Problem 	1981 	
+710 	lpi_cplex1 	LPnetlib 	3,005 	5,224 	10,947 	Linear Programming Problem 	1993 	
+1327 	rotor2 	Morandini 	791 	791 	10,685 	Structural Problem 	2006 	
+348 	bcsstm38 	Boeing 	8,032 	8,032 	10,485 	Structural Problem 	1995 	
+112 	dwt_1242 	HB 	1,242 	1,242 	10,426 	Structural Problem 	1980 	
+107 	can_838 	HB 	838 	838 	10,010 	Structural Problem 	1981 	
+110 	dwt_1005 	HB 	1,005 	1,005 	8,621 	Structural Problem 	1980 	
+111 	dwt_1007 	HB 	1,007 	1,007 	8,575 	Structural Problem 	1980 	
+28 	bcsstk06 	HB 	420 	420 	7,860 	Structural Problem 	1982 	
+29 	bcsstk07 	HB 	420 	420 	7,860 	Duplicate Structural Problem 	1982 	
+137 	dwt_878 	HB 	878 	878 	7,448 	Structural Problem 	1980 	
+138 	dwt_918 	HB 	918 	918 	7,384 	Structural Problem 	1980 	
+135 	dwt_869 	HB 	869 	869 	7,285 	Structural Problem 	1980 	
+62 	bcsstm07 	HB 	420 	420 	7,252 	Structural Problem 	1982 	
+104 	can_634 	HB 	634 	634 	7,228 	Structural Problem 	1981 	
+41 	bcsstk19 	HB 	817 	817 	6,853 	Structural Problem 	1984 	
+105 	can_715 	HB 	715 	715 	6,665 	Structural Problem 	1981 	
+2465 	delaunay_n10 	DIMACS10 	1,024 	1,024 	6,112 	Undirected Graph 	2011 	
+127 	dwt_503 	HB 	503 	503 	6,027 	Structural Problem 	1980 	
+134 	dwt_758 	HB 	758 	758 	5,994 	Structural Problem 	1980 	
+221 	nos5 	HB 	468 	468 	5,172 	Structural Problem 	1982 	
+131 	dwt_607 	HB 	607 	607 	5,131 	Structural Problem 	1980 	
+130 	dwt_592 	HB 	592 	592 	5,104 	Structural Problem 	1980 	
+24 	bcsstk02 	HB 	66 	66 	4,356 	Structural Problem 	1982 	
+218 	nos2 	HB 	957 	957 	4,137 	Structural Problem 	1982 	
+101 	can_445 	HB 	445 	445 	3,809 	Structural Problem 	1981 	
+26 	bcsstk04 	HB 	132 	132 	3,648 	Structural Problem 	1982 	
+71 	bcsstm21 	HB 	3,600 	3,600 	3,600 	Structural Problem 	1984 	
+125 	dwt_419 	HB 	419 	419 	3,563 	Structural Problem 	1980 	
+74 	bcsstm24 	HB 	3,562 	3,562 	3,562 	Structural Problem 	1984 	
+128 	dwt_512 	HB 	512 	512 	3,502 	Structural Problem 	1980 	
+114 	dwt_193 	HB 	193 	193 	3,493 	Structural Problem 	1980 	
+123 	dwt_346 	HB 	346 	346 	3,226 	Structural Problem 	1980 	
+126 	dwt_492 	HB 	492 	492 	3,156 	Structural Problem 	1980 	
+42 	bcsstk20 	HB 	485 	485 	3,135 	Structural Problem 	1984 	
+73 	bcsstm23 	HB 	3,134 	3,134 	3,134 	Structural Problem 	1984 	
+99 	can_268 	HB 	268 	268 	3,082 	Structural Problem 	1981 	
+124 	dwt_361 	HB 	361 	361 	2,953 	Structural Problem 	1980 	
+98 	can_256 	HB 	256 	256 	2,916 	Structural Problem 	1981 	
+728 	lpi_reactor 	LPnetlib 	318 	808 	2,591 	Linear Programming Problem 	1993 	
+100 	can_292 	HB 	292 	292 	2,540 	Structural Problem 	1981 	
+121 	dwt_307 	HB 	307 	307 	2,523 	Structural Problem 	1980 	
+206 	lund_a 	HB 	147 	147 	2,449 	Structural Problem 	1974 	
+122 	dwt_310 	HB 	310 	310 	2,448 	Structural Problem 	1980 	
+207 	lund_b 	HB 	147 	147 	2,441 	Structural Problem 	1974 	
+27 	bcsstk05 	HB 	153 	153 	2,423 	Structural Problem 	1982 	
+1864 	Chebyshev1 	Muite 	261 	261 	2,319 	Structural Problem 	2007 	
+875 	mesh2e1 	Pothen 	306 	306 	2,018 	Structural Problem 	2003 	
+876 	mesh2em5 	Pothen 	306 	306 	2,018 	Structural Problem 	2003 	
+76 	bcsstm26 	HB 	1,922 	1,922 	1,922 	Structural Problem 	1984 	
+884 	sphere3 	Pothen 	258 	258 	1,794 	Structural Problem 	2003 	
+96 	can_229 	HB 	229 	229 	1,777 	Structural Problem 	1981 	
+116 	dwt_209 	HB 	209 	209 	1,743 	Structural Problem 	1980 	
+727 	lpi_qual 	LPnetlib 	323 	464 	1,646 	Linear Programming Problem 	1993 	
+730 	lpi_vol1 	LPnetlib 	323 	464 	1,646 	Linear Programming Problem 	1993 	
+117 	dwt_221 	HB 	221 	221 	1,629 	Structural Problem 	1980 	
+729 	lpi_refinery 	LPnetlib 	323 	464 	1,626 	Linear Programming Problem 	1993 	
+709 	lpi_chemcom 	LPnetlib 	288 	744 	1,590 	Linear Programming Problem 	1993 	
+95 	can_187 	HB 	187 	187 	1,491 	Structural Problem 	1981 	
+66 	bcsstm11 	HB 	1,473 	1,473 	1,473 	Structural Problem 	1982 	
+119 	dwt_245 	HB 	245 	245 	1,461 	Structural Problem 	1980 	
+115 	dwt_198 	HB 	198 	198 	1,392 	Structural Problem 	1980 	
+94 	can_161 	HB 	161 	161 	1,377 	Structural Problem 	1981 	
+877 	mesh3e1 	Pothen 	289 	289 	1,377 	Structural Problem 	2003 	
+878 	mesh3em5 	Pothen 	289 	289 	1,377 	Structural Problem 	2003 	
+93 	can_144 	HB 	144 	144 	1,296 	Structural Problem 	1981 	
+711 	lpi_cplex2 	LPnetlib 	224 	378 	1,215 	Linear Programming Problem 	1993 	
+113 	dwt_162 	HB 	162 	162 	1,182 	Structural Problem 	1980 	
+64 	bcsstm09 	HB 	1,083 	1,083 	1,083 	Structural Problem 	1982 	
+63 	bcsstm08 	HB 	1,074 	1,074 	1,074 	Structural Problem 	1982 	
+217 	nos1 	HB 	237 	237 	1,017 	Structural Problem 	1982 	
+118 	dwt_234 	HB 	234 	234 	834 	Structural Problem 	1980 	
+69 	bcsstm19 	HB 	817 	817 	817 	Structural Problem 	1984 	
+108 	can_96 	HB 	96 	96 	768 	Structural Problem 	1981 	
+1326 	rotor1 	Morandini 	100 	100 	708 	Structural Problem 	2006 	
+273 	will199 	HB 	199 	199 	701 	Structural Problem 	1979 	
+44 	bcsstk22 	HB 	138 	138 	696 	Structural Problem 	1984 	
+25 	bcsstk03 	HB 	112 	112 	640 	Structural Problem 	1982 	
+220 	nos4 	HB 	100 	100 	594 	Structural Problem 	1982 	
+102 	can_61 	HB 	61 	61 	557 	Structural Problem 	1981 	
+136 	dwt_87 	HB 	87 	87 	541 	Structural Problem 	1980 	
+70 	bcsstm20 	HB 	485 	485 	485 	Structural Problem 	1984 	
+883 	sphere2 	Pothen 	66 	66 	450 	Structural Problem 	2003 	
+61 	bcsstm06 	HB 	420 	420 	420 	Structural Problem 	1982 	
+23 	bcsstk01 	HB 	48 	48 	400 	Structural Problem 	1982 	
+106 	can_73 	HB 	73 	73 	377 	Structural Problem 	1981 	
+2457 	chesapeake 	DIMACS10 	39 	39 	340 	Undirected Graph 	2011 	
+132 	dwt_66 	HB 	66 	66 	320 	Structural Problem 	1980 	
+874 	mesh1em6 	Pothen 	48 	48 	306 	Structural Problem 	2003 	
+872 	mesh1e1 	Pothen 	48 	48 	306 	Structural Problem 	2003 	
+873 	mesh1em1 	Pothen 	48 	48 	306 	Structural Problem 	2003 	
+129 	dwt_59 	HB 	59 	59 	267 	Structural Problem 	1980 	
+133 	dwt_72 	HB 	72 	72 	222 	Structural Problem 	1980 	
+103 	can_62 	HB 	62 	62 	218 	Structural Problem 	1981 	
+1177 	lap_25 	HB 	25 	25 	169 	Structural Problem 	1980 	
+97 	can_24 	HB 	24 	24 	160 	Structural Problem 	1981 	
+60 	bcsstm05 	HB 	153 	153 	153 	Structural Problem 	1982 	
+72 	bcsstm22 	HB 	138 	138 	138 	Structural Problem 	1984 	
+58 	bcsstm03 	HB 	112 	112 	72 	Structural Problem 	1982 	
+59 	bcsstm04 	HB 	132 	132 	66 	Structural Problem 	1982 	
+57 	bcsstm02 	HB 	66 	66 	66 	Structural Problem 	1982 	
+56 	bcsstm01 	HB 	48 	48 	24 	Structural Problem 	1982 	
